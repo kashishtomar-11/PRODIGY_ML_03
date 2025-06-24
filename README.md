@@ -70,6 +70,9 @@ with zipfile.ZipFile(zip_path, 'r') as zip_ref:
            1       0.84      0.86      0.85       100
 
 ✍️ Author
+
 Kashish Tomar
+
 Intern at Prodigy Infotech – June 2025
+
 GitHub: @kashishtomar-11
