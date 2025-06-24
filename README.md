@@ -72,7 +72,5 @@ with zipfile.ZipFile(zip_path, 'r') as zip_ref:
 ✍️ Author
 
 Kashish Tomar
-
 Intern at Prodigy Infotech – June 2025
-
 GitHub: @kashishtomar-11
